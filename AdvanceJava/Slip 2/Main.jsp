@@ -9,6 +9,6 @@
         Enter a number: <input type="text" name="number">
         <input type="submit" value="Check">
     </form>
-    <jsp:include page="CheckPerfect.jsp" />
+   
 </body>
 </html>
